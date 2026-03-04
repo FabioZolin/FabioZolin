@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Fabio! 👋🕵️‍♂️
 
-<!--
-**FabioZolin/FabioZolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity Student @ Unimi
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I am a second-year student in Computer Systems and Network Security at the University of Milan and a Digital Forensics trainee in my free time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 What I'm currently working on
+- Studying for my Degree in Computer Systems and Network Security at Unimi.
+- Solving DFIR challenges on **Blue Team Labs Online (BTLO)**, **Hack The Box** and **Cyberdefenders**.
+- Developing a Python tool for automated **DNS Tunneling detection** in PCAP files.
+
+## 🛠️ Tools & Technologies
+- **Network Analysis:** Wireshark, TShark, Scapy
+- **Digital/Memory Forensics:** Volatility 3, Autopsy, CyberChef
+- **Scripting & DB:** Python, Bash, SQL, C/C++
